@@ -5,4 +5,4 @@
 감사합니다:별말씀을요
 ㅋㅋㅋㅋ:웃기네요
 넌 누구야:저는 ks 재단에서 만든 챗봇 kly에요
-html 에제:<p>hello</p>
+html 에제:<pre><p>hello</p></pre>
