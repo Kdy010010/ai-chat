@@ -7,4 +7,5 @@
 넌 누구야:저는 ks 재단에서 만든 챗봇 kly에요
 html 에제:<p><p>hello</p></p>
 나 잘생겼어?:당신의 얼굴을 볼 웹캠이 없어 다행이라고 생각하고 있어요
-아무거나 숫자 뽑아줘:https://kdy010010.github.io/ai-chat/widgets/random.html
+숫자 아무거나 뽑아:https://kdy010010.github.io/ai-chat/widgets/random.html
+widgetsrandom:https://kdy010010.github.io/ai-chat/widgets/random.html
